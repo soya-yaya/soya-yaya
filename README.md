@@ -50,9 +50,3 @@ Here are some ideas to get you started:
 <img src="https://stats.justsong.cn/api/bilibili/?id=16613620",height=160> 
 <img src="https://github.com/soya-yaya/soya-yaya/blob/main/nichijou-anime-brasil%20(1)%20(1).gif",height=160>
 </div>
-
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/soya-yaya/soya-yaya/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/soya-yaya/photos/images/202111021926704.png"/>
-</div>
