@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz （2013 ~ 1986） -</i></p>
+
+![Metrics](https://metrics.lecoq.io/soya-yaya?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=soya-yaya)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center"> <img src="https://stats.justsong.cn/api/bilibili/?id=16613620"> </div>
+
+<img align="" width=""  src="\nichijou-anime-brasil (1) (1).gif"></td>
