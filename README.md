@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 <!-- metrics 基础资料 -->
 <div align="center"> <img src="https://metrics.lecoq.io/soya-yaya?template=classic&isocalendar=1&stars=1&people=1&followup=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai"> </div>
 
+
+## 🙋 SMALLTALK
+
+<p align="center">&nbsp;&nbsp;这里是韩索雅，就读于中南财经政法大学数据科学与大数据技术专业</p>
+
 💪 正在学习: 
 
 &emsp;&emsp;
