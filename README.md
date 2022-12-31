@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center"><i>- Aaron Swartz （2013 ~ 1986） -</i></p>
 
 <!-- metrics 基础资料 -->
-![Metrics](https://metrics.lecoq.io/soya-yaya?template=classic&isocalendar=1&stars=1&people=1&followup=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
+<div align="center"> <img src="https://metrics.lecoq.io/soya-yaya?template=classic&isocalendar=1&stars=1&people=1&followup=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai"> </div>
 
 💪 正在学习: 
 
