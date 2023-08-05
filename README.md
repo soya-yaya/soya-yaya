@@ -43,13 +43,7 @@ Here are some ideas to get you started:
 <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
 
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=soya-yaya&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
+
   
 <div align="center">
 <img src="https://stats.justsong.cn/api/bilibili/?id=16613620",height=160> 
