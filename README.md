@@ -23,6 +23,5 @@
 
   
 <div align="center">
-<img src="https://stats.justsong.cn/api/bilibili/?id=16613620",height=160> 
 <img src="https://github.com/soya-yaya/soya-yaya/blob/main/nichijou-anime-brasil%20(1)%20(1).gif",height=160>
 </div>
